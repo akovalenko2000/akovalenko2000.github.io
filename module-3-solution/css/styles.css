@@ -1,0 +1,152 @@
+/* Base Styles */
+
+* {
+	box-sizing: border-box;
+}
+
+h1 {
+	font-family: Comic Sans MS, Comic Sans, cursive;
+	color: #000000;
+	text-align: center;
+}
+
+body {
+	background-color: #FFFFFF;
+
+}
+
+p {
+	padding: 10px;
+	margin: 0;
+}
+
+.container {
+	border: none;
+	margin-left: auto;
+	margin-right: auto;
+	margin-top: 10px;
+	margin-bottom: 10px;
+	padding: 10px;
+}
+
+section {
+	border:	1px solid black;
+	background-color: #A9A9A9;
+	width: 100%;
+	height: 200px;
+	font-family: Helvetica;
+	color: black;
+	position: relative;
+	overflow: auto;
+}
+
+#Chicken {
+	border: 1px solid black;
+	text-align: center;
+	width: 30%;
+	margin-left: 70%;
+	font-family: Comic Sans MS, Comic Sans, cursive;
+	font-weight: bold;
+	font-size: 150%;
+	margin-bottom: 0;
+	margin-top: 0;
+	padding: 5px;
+	background-color:#F08080;
+}
+
+#Beef {
+	border: 1px solid black;
+	text-align: center;
+	width: 30%;
+	margin-left: 70%;
+	font-family: Comic Sans MS, Comic Sans, cursive;
+	font-weight: bold;
+	font-size: 150%;
+	margin-bottom: 0;
+	margin-top: 0;
+	padding: 5px;
+    background-color: #CD5C5C;
+	color: white;
+    
+}
+
+#Sushi {
+	border: 1px solid black;
+	text-align: center;
+	width: 30%;
+	margin-left: 70%;
+    font-family: Comic Sans MS, Comic Sans, cursive;
+    font-weight: bold;
+	font-size: 150%;
+	margin-bottom: 0;
+	margin-top: 0;
+	background-color: #F0E68C;
+	padding: 5px;
+}
+
+#chicken-div {
+  margin-bottom: 10px;
+  margin-top: 10px;
+  
+}
+
+#beef-div {
+  margin-bottom: 10px;
+  margin-top: 10px;
+}
+
+#sushi-div {
+  margin-bottom: 10px;
+  margin-top: 10px;
+}/*
+.nav-header{
+	border: 0;
+  background-color: #a9a9a9;
+  color: #000000;
+}*/
+.navbar-brand {
+  font-size: 2em;
+  border: 0 0 10px 10px;
+  color: #000000;
+}
+
+#header-nav {
+  border: 0;
+  background-color: #a9a9a9;
+  color: #000000;
+}
+
+.navbar-header button.navbar-toggle, .navbar-header .icon-bar {
+  border: 1px solid #000;
+}
+.navbar-header button.navbar-toggle {
+  clear: both;
+  margin-top: -30px;
+}
+
+.nav-header {
+  background-color: #000000;
+}
+
+.nav-brand {
+  color: #000;
+  font-size: 1.5em;
+  font-family: Comic Sans MS, Comic Sans, cursive;
+  /*background-color: #A9A9A9;*/
+}
+
+#nav-list {
+  color: #000000;
+  font-family: Comic Sans MS, Comic Sans, cursive;
+  background-color: #ffffff;
+}
+
+hr {
+  border-color: black;
+}
+
+.item {
+  color: #000000;
+  font-size: 1.2em;
+
+}
